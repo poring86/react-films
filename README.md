@@ -8,6 +8,10 @@ Copy the config.example.js to config.js and set your api key.
 
 Then run:
 
+### `npm install`
+
+To install all dependencies
+
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
