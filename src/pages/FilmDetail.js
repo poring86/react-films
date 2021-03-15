@@ -19,7 +19,7 @@ const FilmDetail = () => {
                 {selectedFilm && (
                     <>
                         <Grid item xs={12} align="center">
-                            <img src={`${config.imageBaseUrl}${selectedFilm.poster_path}`} alt={selectedFilm.poster_path} />
+                            <img style={{maxWidth: '100%'}} src={`${config.imageBaseUrl}${selectedFilm.poster_path}`} alt={selectedFilm.poster_path} />
                         </Grid>
                         <Grid item xs={12}>
                             <Typography variant="h4" component="h1">
