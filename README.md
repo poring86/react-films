@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React Movies
 
 React Films is an App that list all the trends of week from "the movie db" and was made with react and redux
 
