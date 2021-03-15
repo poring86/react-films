@@ -4,9 +4,7 @@ React Films is an App that list all the trends of week from "the movie db" and w
 
 ## Get started!
 
-Copy the config.example.js to config.js and set your api key.
-
-Then run:
+Run:
 
 ### `npm install`
 
